@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-
+/// <summary>
+/// //////
+/// </summary>
 class Program
 {
     static Dictionary<string, List<KeyValuePair<string, int>>> messageData = new();
